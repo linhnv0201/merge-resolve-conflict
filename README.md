@@ -1,3 +1,2 @@
 "# merge-resolve-conflict" 
-Texted in github, hehe. Donot delete
-hehe
+Texted in github, hehe. Donot delete.
